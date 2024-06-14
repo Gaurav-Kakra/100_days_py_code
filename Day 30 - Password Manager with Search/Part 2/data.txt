@@ -1,0 +1,6 @@
+{
+    "Amazon": {
+        "email": "gkakra@gmail.com",
+        "password": "N(L$M6bOYWq$W9"
+    }
+}
